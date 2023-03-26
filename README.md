@@ -3,7 +3,7 @@ Hello this is Aayush
 Responsive covid landing page created with HTML, CSS and JavaScript.
 The page we are building is to help raise awareness and prevention for covid-19.
 
-Live preview [Covid landing page]()
+
 
 # Tech Stack
 
@@ -24,4 +24,4 @@ It's a informative website for awaring peoples from covid, It's preety good look
 - footer
 
 # preview 
-- live preview 
+- live preview of this covid page (https://ayush5718.github.io/Covid-Paage/) 
